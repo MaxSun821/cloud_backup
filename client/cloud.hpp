@@ -7,7 +7,7 @@
 
 namespace cloud
 {
-#define SERVER_ADDR "106.15.37.17"
+#define SERVER_ADDR "YOUR_SERVER_ADDR"
 #define SERVER_PORT 8080
 	class Backup
 	{
